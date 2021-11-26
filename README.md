@@ -24,7 +24,7 @@ Web Application |  2nd year 1st semester Project | SLIIT
   
   - Eclipse
    
-      <img src="https://www.vhv.rs/dpng/d/40-400660_eclipse-logo-png-transparent-png.png" width="200" height="100"/>
+      <img src="https://www.pngkit.com/png/detail/346-3466362_eclipse-logo-eclipse-logo-transparent.png" width="230" height="100"/>
   
   <h3>Technologies :</h3>
     
