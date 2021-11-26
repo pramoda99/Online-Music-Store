@@ -16,7 +16,7 @@ Web Application |  2nd year 1st semester Project | SLIIT
   </p>
   
   <h2>About this project</h2>
-  4MUSIC is a web application designed to order cakes directly from the shop to the destination. Customers will be able to place the order conveniently using the application.
+  4MUSIC is a web application designed to listen any type of music online. Customers can listen music conveniently using this application.
   
   <h2>Tools & Technologies</h2>
   
