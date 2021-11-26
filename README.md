@@ -2,7 +2,7 @@
 Web Application |  2nd year 1st semester Project | SLIIT
 
 
-<h1 align="center">--4MUSIC Java Web Application--</h1>
+<h1 align="center">__4MUSIC Java Web Application__</h1>
 
 <p align="center">
  
