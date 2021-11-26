@@ -34,7 +34,7 @@ Web Application |  2nd year 1st semester Project | SLIIT
      
   - Apache Tomcat server
    
-     <img src="https://cloud7.news/wp-content/uploads/2019/12/tomcat_about.jpg"  width="100" height="85"/>
+     <img src="https://cloud7.news/wp-content/uploads/2019/12/tomcat_about.jpg"  width="150" height="85"/>
   
   
   <h3>Technologies :</h3>
