@@ -26,13 +26,13 @@ Web Application |  2nd year 1st semester Project | SLIIT
    
       <img src="https://www.pngkit.com/png/detail/346-3466362_eclipse-logo-eclipse-logo-transparent.png" width="200" height="85"/>
   
-  <h3>Technologies :</h3>
     
   - Java
    
-     <img src="https://user-images.githubusercontent.com/87439553/134557502-c829daaf-5554-42ed-b0a1-84f24b8ceedd.png" width="100" height="100"/>
+     <img src="https://linuxhint.com/wp-content/uploads/2020/06/1-22.png"  width="200" height="85"/>
   
   
+  <h3>Technologies :</h3>
   
   - Firebase
   
