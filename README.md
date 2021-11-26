@@ -39,9 +39,12 @@ Web Application |  2nd year 1st semester Project | SLIIT
   
   <h3>Technologies :</h3>
   
-  - Firebase
+  - Java
+  - Java Server Pages(JSP)
+  - Servlets
+  - HTML 5, CSS, Js,
   
-     <img src="https://icon2.cleanpng.com/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg"        width="100" height="100"/>
+    
 
 
 
