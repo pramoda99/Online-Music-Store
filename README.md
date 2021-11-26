@@ -20,10 +20,14 @@ Web Application |  2nd year 1st semester Project | SLIIT
   
   <h2>Tools & Technologies</h2>
   
+  <h3>Tools</h3>
+  
   - Eclipse
    
       <img src="https://user-images.githubusercontent.com/87439553/134557654-d93ed0c5-e085-4d57-8e5a-b563738f284e.png" width="100" height="100"/>
   
+  <h3>Technologies</h3>
+    
   - Java
    
      <img src="https://user-images.githubusercontent.com/87439553/134557502-c829daaf-5554-42ed-b0a1-84f24b8ceedd.png" width="100" height="100"/>
