@@ -1,0 +1,160 @@
+@charset "ISO-8859-1";
+
+
+body, html {
+  padding:0;
+  margin:0;
+  font-family: sans-serif;
+  color: white;
+}
+
+li {
+  float: left;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0 0 20px 144px;
+  overflow: hidden;
+  background-color: #1a1a1a;
+  width: 100%;
+}
+
+.logo {
+  width: 106px;
+  height: 89px;
+  position: absolute;
+  margin-top: -10px;
+  margin-left: 19px;
+}
+
+
+nav {
+  display: flex;
+  width: 100%;
+  height: 66px;
+  background: black;
+  overflow: auto;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 25px 45px 50px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+           background-color: rgb(255, 0, 0);;
+}
+
+
+.box{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  background-position: left;
+  background-repeat: no-repeat;
+  box-shadow: 0 0 80px  red inset;
+  width:610px;
+  height: 600px;
+  padding:0px 0px 0px 0px;
+
+}	
+	
+.productDatart{
+    background-color: #F5DEB3;
+	
+}
+
+
+.font{
+	color: navy;
+	font-family: "Times New Roman", Times, serif
+	
+}
+
+.set1{
+	 width: 51px;
+     height: 41px;
+     border-radius: 17px;
+     border-style: none;
+     font-family: sans-serif;
+     background-color:#E77471;
+     text-align:center;
+     color: navy;
+     font-size: 24px;
+     letter-spacing: 1px;
+              
+                
+}
+
+.set2{
+	 width: auto;
+     height: 41px;
+     border-radius: 17px;
+     border-style: none;
+     font-family: sans-serif;
+     background-color:#E77471;
+     text-align:center;
+     color: navy;
+     font-size: 24px;
+     letter-spacing: 1px;
+              
+                
+}
+
+
+.set3{
+	 width: 171px;
+     height: 41px;
+     border-radius: 17px;
+     border-style: none;
+     font-family: sans-serif;
+     background-color:#E77471;
+     text-align:center;
+     color:navy;
+     font-size: 24px;
+      letter-spacing: 1px;
+              
+}
+
+
+.set{
+	 width: auto;
+     height: 41px;
+     border-radius: 7px;
+     border-style: bold;
+     font-family: sans-serif;
+     background-color:#FF2400;
+     color: black;
+     font-size: 20px;
+     letter-spacing: 1px;
+     cursor: pointer;
+}
+
+
+.footer{
+  width: 100%;
+  height: -100px;
+  background-color: rgb(71, 71, 70);
+  margin: 0 0 0 0;
+  opacity: 50%;
+  padding-bottom: 200px;
+  position: absolute;
+}
+
+.logobox{
+  /* background-color: yellow; */
+  width: 149px;
+  height: 60px;
+  margin: 0 20px -22px 45%;
+  position: absolute;
+}
+
+.socialmedia{
+  position: absolute;
+  margin: 10% 0 0 39%;
+  width: 316px;
+  height: 44px;
+}
