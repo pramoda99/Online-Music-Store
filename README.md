@@ -27,9 +27,14 @@ Web Application |  2nd year 1st semester Project | SLIIT
       <img src="https://www.pngkit.com/png/detail/346-3466362_eclipse-logo-eclipse-logo-transparent.png" width="200" height="85"/>
   
     
-  - Java
+  - MySQL server
    
      <img src="https://linuxhint.com/wp-content/uploads/2020/06/1-22.png"  width="200" height="85"/>
+     
+     
+  - Apache Tomcat server
+   
+     <img src="https://cloud7.news/wp-content/uploads/2019/12/tomcat_about.jpg"  width="100" height="85"/>
   
   
   <h3>Technologies :</h3>
