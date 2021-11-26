@@ -6,7 +6,7 @@ Web Application |  2nd year 1st semester Project
 
 <p align="center">
  
-  <img src="https://user-images.githubusercontent.com/87439553/143580939-5d2e3c06-8c5e-4397-a764-8c9d82c8060f.png" width="250" height="250"/>
+  <img src="https://user-images.githubusercontent.com/87439553/143580939-5d2e3c06-8c5e-4397-a764-8c9d82c8060f.png" width="150" height="150"/>
 </p>
 <p>
 
